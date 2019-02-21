@@ -94,4 +94,5 @@ Creating Oauth Credentials for Youtube API
 ## User Interface
 
 Once user enter a movie name in the search box of the home page, results are presented as follows
+![alt text][logo]
 [logo]: https://github.com/Ycpk/box-office-predictor/blob/master/screenshot.png "Box Office Predictor"
