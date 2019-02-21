@@ -1,4 +1,4 @@
-# Instructions
+## Instructions
 
 ### Dependancies:
 
@@ -90,3 +90,8 @@ Creating Oauth Credentials for Youtube API
     client_secrets.json
 12. Now go to OAuth consent screen tab
 13. Enter name of application as Box Office Prediction, enter email and save it.
+
+## User Interface
+
+Once user enter a movie name in the search box of the home page, results are presented as follows
+[logo]: https://github.com/Ycpk/box-office-predictor/blob/master/screenshot.png "Box Office Predictor"
